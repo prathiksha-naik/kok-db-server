@@ -1,0 +1,14 @@
+{
+  "name": "kok-db-server",
+  "version": "1.0.0",
+  "description": "Kart O Kart DB Server",
+  "main": "server.js",
+  "scripts": { 
+    "start": "node server.js"
+  },
+  "author": "Prathiksha Naik",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
