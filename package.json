@@ -1,7 +1,7 @@
 {
   "name": "kok-db-server",
   "version": "1.0.0",
-  "description": "Kart O Kart DB Server",
+  "description": "Kart O Kart DB Server. This server can be used to fetch and store data from/to db",
   "main": "server.js",
   "scripts": { 
     "start": "node server.js"
