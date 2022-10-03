@@ -1,0 +1,56 @@
+{
+  "signedUpUsersList": [
+    {
+      "name": "Pallavi",
+      "email": "pallavi@gmail.com",
+      "password": "123456",
+      "session": "",
+      "id": 1
+    },
+    {
+      "name": "Prathiksha S Naik",
+      "email": "prathiksha07@gmail.com",
+      "password": "123456",
+      "session": "",
+      "id": 2
+    },
+    {
+      "name": "customer",
+      "email": "customer@google.com",
+      "password": "1234561",
+      "id": 3
+    },
+    {
+      "name": "customer",
+      "email": "customer@google.com",
+      "password": "1234561",
+      "id": 4
+    }
+  ],
+  "checkout": [
+    {
+      "FullName": "Prathiksha",
+      "email": "prathiksha.naik@gmail.com",
+      "address": "banglore",
+      "city": "banglore",
+      "NameOnTheCard": "prathi",
+      "Creditcardnumber": "2222-3333-4444-5555",
+      "ExpMonth": "4",
+      "ExpYear": "2026",
+      "CVV": "123",
+      "id": 1
+    },
+    {
+      "FullName": "prathi",
+      "email": "prathi@gmail.com",
+      "address": "banglore",
+      "city": "banglore",
+      "NameOnTheCard": "Prathiksha",
+      "Creditcardnumber": "7234-3213-6788",
+      "ExpMonth": "5",
+      "ExpYear": "2024",
+      "CVV": "123",
+      "id": 2
+    }
+  ]
+}
